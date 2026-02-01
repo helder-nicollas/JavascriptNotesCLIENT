@@ -48,7 +48,3 @@ JavascriptNotes é um aplicativo WEB que permite anotações na nuvem. Com ele �
     <li>Implementação do framework Bulma junto com a linguagem de estilização SASS e a biblioteca RBX</li>
     <li>Implementação da biblioteca React-Burger-Menu para criação de sidebars</li>
 </ol>
-
-
-## Produção
-<a href="https://javascriptnotes.onrender.com">Clique aqui para acessar a versão do aplicativo em produção</a>
